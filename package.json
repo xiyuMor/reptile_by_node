@@ -1,0 +1,23 @@
+{
+  "name": "reptile_by_node",
+  "version": "1.0.0",
+  "description": "a reptile test by nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test reptile"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiyuMor/reptile_by_node.git"
+  },
+  "author": "Mor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiyuMor/reptile_by_node/issues"
+  },
+  "homepage": "https://github.com/xiyuMor/reptile_by_node#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.81.0"
+  }
+}
