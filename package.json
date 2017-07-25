@@ -18,6 +18,7 @@
   "homepage": "https://github.com/xiyuMor/reptile_by_node#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
+    "path": "^0.12.7",
     "request": "^2.81.0"
   }
 }
